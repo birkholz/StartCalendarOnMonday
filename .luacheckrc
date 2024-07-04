@@ -7,4 +7,5 @@ exclude_files = {
 globals = {
 	-- Providing or overriding existing globals
 	"CALENDAR_FIRST_WEEKDAY",
+	"CreateFrame"
 }

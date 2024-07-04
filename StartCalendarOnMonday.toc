@@ -1,5 +1,5 @@
 ## Interface: 100207
 ## Title: Start Calendar On Monday
-## Version: 1
+## Version: 2
 
 StartCalendarOnMonday.lua
